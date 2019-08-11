@@ -2,7 +2,7 @@
 
 ## WaffleStudio 17.5 Recruting
 
-### 와플스튜디오에서 17.5기를 모집합니다! 공지사항을 잘 읽어주시고 지원바랍니다.
+#### 와플스튜디오에서 17.5기를 모집합니다! 공지사항을 잘 읽어주시고 지원바랍니다.
 
 ## Direction  
 - 와플스튜디오는 개발 경험, 능력 등에 따라 Rookies(신입부원), Programmers(정회원)을 따로 모집합니다
@@ -22,12 +22,12 @@
 - 아래에 제시된 과제 중 원하는 하나를 진행한 후, 본인의 repository에 업로드하고, 해당 repository의 주소를 리크루팅 repository의 [이슈](https://github.com/wafflestudio/17.5th_Recruting/issues)에 남겨주세요
 	* 웹
 		- [angular tutorial](https://angular.io/tutorial)을 공부하세요
-        	- 튜토리얼 바탕으로 자기소개 페이지 제작
+		- 튜토리얼 바탕으로 자기소개 페이지 제작
 		- 자기소개 페이지 스펙 : tour of heroes 기반으로 자유롭게!
 	* 안드로이드
 		- 안드로이드 스튜디오 튜토리얼 참고 (https://developer.android.com/guide?hl=ko) *Build your first app 파트 까지 참고해서*
 		- 튜토리얼 바탕으로 자기소개 앱 제작 
-		- 자기소개 앱 스펙 :  Activity가 두 개 이상 존재 + Intent를 통해 Activity 전환을 할 수 있는 자기소개 App 제작
+		- 자기소개 앱 스펙 : Activity가 두 개 이상 존재 + Intent를 통해 Activity 전환을 할 수 있는 자기소개 App 제작
   
   
 ## Due Date 
