@@ -20,7 +20,7 @@
 - 지원자는 GitHub, Git사용법에 대해 기초적인 지식이 있어야 합니다. [튜토리얼](https://rogerdudler.github.io/git-guide/index.ko.html)을 참고하세요
 - 아래에 제시된 과제 중 원하는 **하나**를 진행한 후, 본인의 github repository에 업로드하고, 해당 repository의 주소를 리크루팅 repository의 [이슈](https://github.com/wafflestudio/17.5th_Recruting/issues)에 남겨주세요
 	* 웹
-		- html / css 기초 익히기 [tutorial] = https://www.w3schools.com/html/default.asp
+		- html / css 기초 익히기 [tutorial](https://www.w3schools.com/html/default.asp)
 		- 튜토리얼 바탕으로 자기소개 페이지 제작
 		- 스펙 : 
 		- 상단바를 이용해서 라우팅을 구현할 것. (라우팅은 어떤 형식이든 상관없음. 다만 메뉴를 눌렀을 때 메뉴 페이지로 이동해야 함)
@@ -35,7 +35,7 @@
   
 ## 지원기간/선발
 * 9/1일 23:59까지 이슈를 등록/수정해주세요
-* 최대 30명의 인원을 모집할 예정입니다
+* 최대 30명의 인원을 모집할 예정입니다(차후 변동될 수 있습니다)
 
 ## 기타
 * 과제 제출한 사람들이 30명이 넘을 경우, 전화면접, 과제의 완성도 등을 평가하여 30명 이내로 선발할 예정입니다
