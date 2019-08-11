@@ -20,9 +20,11 @@
 - 지원자는 GitHub, Git사용법에 대해 기초적인 지식이 있어야 합니다. [튜토리얼](https://rogerdudler.github.io/git-guide/index.ko.html)을 참고하세요
 - 아래에 제시된 과제 중 원하는 **하나**를 진행한 후, 본인의 github repository에 업로드하고, 해당 repository의 주소를 리크루팅 repository의 [이슈](https://github.com/wafflestudio/17.5th_Recruting/issues)에 남겨주세요
 	* 웹
-		- angular [tutorial](https://angular.io/tutorial)을 공부하세요
+		- html / css 기초 익히기 [tutorial] = https://www.w3schools.com/html/default.asp
 		- 튜토리얼 바탕으로 자기소개 페이지 제작
-		- 자기소개 페이지 스펙 : tour of heroes 기반으로 자유롭게!
+		- 스펙 : 
+		- 상단바를 이용해서 라우팅을 구현할 것. (라우팅은 어떤 형식이든 상관없음. 다만 메뉴를 눌렀을 때 메뉴 페이지로 이동해야 함)
+		- 상단 메뉴에는 <자기소개>, <취미>, <전공> 등의 내용등으로 자유롭게 구성
 	* 안드로이드
 		- 안드로이드 스튜디오 [튜토리얼](https://developer.android.com/guide?hl=ko)을 공부하세요 *(Build your first app 파트를 참고하시면 좋을 것 같습니다)*
 		- 튜토리얼 바탕으로 자기소개 앱 제작 
@@ -38,4 +40,4 @@
 ## 기타
 * 과제 제출한 사람들이 30명이 넘을 경우, 전화면접, 과제의 완성도 등을 평가하여 30명 이내로 선발할 예정입니다
 * 다시 한 번 말씀드리지만, 개발경력이 있는 **programmers 모집**은 차후에 이뤄질 예정입니다
-* 문의사항은 sangggg@wafflestudio.com으로 연락해주세요
+* 문의사항은 sanggggg@wafflestudio.com으로 연락해주세요
