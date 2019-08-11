@@ -25,9 +25,8 @@ WaffleStudio 17.5 Recruting
 주소: https://github.com/wafflestudio/17.5th_Recruting  
   
   - 프론트엔드
-	angular tutorial 해보기
+	angular tutorial 해보기 https://angular.io/tutorial
 	튜토리얼 바탕으로 자기소개 페이지 만들어서 제출하기
-	모르는 정보들을 구글링해서 채워넣기 (구글링도 중요한 소양)
 	자기소개 페이지 스펙 - tour of heroes 기반으로 자유롭게!
 	github 가입해서 레포 생성해서 링크로 남겨주기
 
