@@ -41,3 +41,7 @@
 * 과제 제출한 사람들이 30명이 넘을 경우, 전화면접, 과제의 완성도 등을 평가하여 30명 이내로 선발할 예정입니다
 * 다시 한 번 말씀드리지만, 개발경력이 있는 **programmers 모집**은 차후에 이뤄질 예정입니다
 * 문의사항은 sanggggg@wafflestudio.com으로 연락해주세요
+
+## Sponsors
+![Woot](http://www.hellowoot.co.kr/static/asset/images/intro/woot_logo_3.png)<br>
+미래형 이웃 커뮤니티 **[우트](http://www.hellowoot.co.kr)** sponsors Wafflestudio
