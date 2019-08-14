@@ -43,5 +43,5 @@
 * 문의사항은 sanggggg@wafflestudio.com으로 연락해주세요
 
 ## Sponsors
-![Woot](http://www.hellowoot.co.kr/static/asset/images/intro/woot_logo_3.png)<br>
-미래형 이웃 커뮤니티 **[우트](http://www.hellowoot.co.kr)** sponsors Wafflestudio
+<image src="src/heydealerlogo.png" width="200"> <br>
+내차팔기 서비스 **[Heydealer](http://www.heydealer.co.kr/)** sponsors Wafflestudio
