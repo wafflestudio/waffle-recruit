@@ -42,6 +42,12 @@
 * 다시 한 번 말씀드리지만, 개발경력이 있는 **programmers 모집**은 차후에 이뤄질 예정입니다
 * 문의사항은 sanggggg@wafflestudio.com으로 연락해주세요
 
+## _2019.08.25 추가 사항(자주 묻는 질문)_
+* 기존 와플 스튜디오 회원이지만(17기 또는 16.5기... 등등), 스터디에 참여하시고 싶은 분들도 마찬가지로 위 Assign을 제출해 주시기 바랍니다
+> 스터디는 모두 Assign까지의 내용을 이해하고 있다는 전제하에 진행되기에 되도록이면 Assign을 제출하고 참여해 주세요
+* 안드로이드 과제는 해당 앱 프로젝트 폴더를 개인 레포지토리에 올려서 제출하시면 됩니다.(apk로 제출할 필요 없습니다)
+* **Assign 제출에 어려움을 겪고 계시는 분은 마찬가지로 sanggggg@wafflestudio.com로 연락을 주셔서 도움을 요청하실 수 있습니다!**
+
 ## Sponsors
 <image src="src/heydealerlogo.png" width="200"> <br>
 내차팔기 서비스 **[Heydealer](http://www.heydealer.co.kr/)** sponsors Wafflestudio
