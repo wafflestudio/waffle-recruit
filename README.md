@@ -46,4 +46,3 @@
 ** 기타
 - 문의사항은 sanggggg@wafflestudio.com 으로 연락해주세요.
 
-![logo](./image/logo.png = 100x20)
