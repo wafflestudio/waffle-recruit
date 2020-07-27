@@ -1,6 +1,6 @@
 # 아직 모집이 시작되지 않았습니다. 아래의 내용은 유효하지 않습니다.
 
-# 18.5th_Recurting
+# 18.5th_Recruiting
 
 ## WaffleStudio 18.5 Recruiting
 
