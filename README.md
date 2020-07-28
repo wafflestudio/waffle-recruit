@@ -35,7 +35,7 @@ email: {이메일}
 - 자기소개서는 1페이지 내외의 pdf 파일로 제출해주세요.
 
 ## Assignment
-- https://www.waffle-recruit.shop 에서 주어진 두 문제를 풀어주세요. (언어는 자유입니다.)
+- https://www.waffle-recruit.shop 에서 주어진 두 문제를 풀어주세요. (권장 언어: python javascript kotlin java)
 - **사이트 가입시 email 과 github username 은 꼭 유효한 계정들을 사용해주세요.**
 - 문제를 모두 풀 필요는 없습니다, 문제를 풀기 위해 고민한 과정을 코드로 보여주세요.
 - assignment에 관한 문의는 zlzlqlzl1@wafflestudio.com 혹은 sanggggg@wafflestudio.com 으로 문의해주세요.
