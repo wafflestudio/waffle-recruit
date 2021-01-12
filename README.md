@@ -6,8 +6,8 @@
 ### Programmers
 * 와플스튜디오의 개발자 모집은 개발 경험, 능력에 따라 `Rookies`, `Programmers`를 따로 모집하며, 이번 리크루팅은 `Programmers`를 대상으로 모집할 계획입니다.
 * 앱 또는 웹 개발 프로젝트를 참여해본 경험이 있는 분들, 또는 이에 준하는 실력이 있는 분들을 찾습니다.
-    * Frontend, Backend, Android, iOS 중 하나 이상의 프로젝트 개발 경험이 있는 분들을 찾습니다.
-    * **Django, Ruby on Rails, Express, React** 개발 경험이 있으면 더욱 좋습니다.
+    * Frontend, Backend, Android, iOS 중 하나 이상 분야의 개발 경험이 있는 분들을 찾습니다.
+    * **Django, Ruby on Rails, React, Spring boot** 개발 경험이 있으면 더욱 좋습니다.
     * 소개원실 수강생들을 환영합니다.
 * 새로 앱/웹 개발에 대해 배워보고 싶은 분을 대상으로 하는 `Rookies` 모집은 2학기에 따로 진행될 예정입니다.
 
