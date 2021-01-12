@@ -1,6 +1,6 @@
 # 와플스튜디오 19기 Programmers & Designers Recruiting
 
-서울대학교 컴퓨터공학부 앱/웹 개발 동아리 와플스튜디오에서 18기 `Programmers` & `Designers` 를 모집합니다! 공지사항을 잘 읽고 지원해 주시기 바랍니다.
+서울대학교 컴퓨터공학부 앱/웹 개발 동아리 와플스튜디오에서 19기 `Programmers` & `Designers` 를 모집합니다! 공지사항을 잘 읽고 지원해 주시기 바랍니다.
 
 ## 모집 단위 소개
 ### Programmers
