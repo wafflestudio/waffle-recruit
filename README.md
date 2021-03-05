@@ -7,7 +7,7 @@
 
 > 1월 모집이 끝났습니다. 다음 programmers모집은 3월초에 있을 예정입니다. 참고 부탁드립니다.
 
-https://wafflestudio.com/recruit
+> 3월 모집 상세 : https://wafflestudio.com/recruit
  
 ## 모집 단위 소개
 ### Programmers
