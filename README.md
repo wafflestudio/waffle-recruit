@@ -6,6 +6,9 @@
 ~~**2021.1.23(토)에 팀 빌딩**이 예정되어 있어 선발 일정을 앞당겼습니다. 혹시 지원 일정을 놓치신 분들은 zlzlqlzl1@wafflestudio.com 로 문의해 주시기 바랍니다.~~
 
 > 1월 모집이 끝났습니다. 다음 programmers모집은 3월초에 있을 예정입니다. 참고 부탁드립니다.
+
+https://wafflestudio.com/recruit
+ 
 ## 모집 단위 소개
 ### Programmers
 * 와플스튜디오의 개발자 모집은 개발 경험, 능력에 따라 `Rookies`, `Programmers`를 따로 모집하며, 이번 리크루팅은 `Programmers`를 대상으로 모집할 계획입니다.
