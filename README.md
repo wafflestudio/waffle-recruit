@@ -33,7 +33,10 @@
 * 아래 링크를 통해 **asssignment**와 **자기소개서**를 제출해주세요.
   * ❗ **[와플스튜디오 리크루팅 사이트](https://recruit.wafflestudio.com/)** ❗
     * **GitHub 로그인**을 필수로 합니다.
+    * GitHub 로그인 오류 발생시에 아래 **유의사항**을 확인해주세요!
     * **GitHub 계정의 이메일 정보가 공개 설정**되어 있어야 합니다. (관련해서는 [다음 글](https://ssimplay.tistory.com/713) 을 참고해주세요.)
+      * settings - access - emails - "keep my email addresses private"에 체크 해제
+      * settings - public profile - public email에 올바르게 메일 선택되어있나 확인
     * 크롬의 경우에 정상적으로 접속이 안된다면, 캐시를 삭제하거나 시크릿 모드를 통해 이용해주세요.
 * 합격자분들에 대해 **8월 21일 일요일 14시에 전체 OT**가 예정되어 있으니 참고바랍니다.
 
