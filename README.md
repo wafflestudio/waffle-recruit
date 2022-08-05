@@ -69,7 +69,7 @@ $ ggg
 $ hhh
 > restore
 > restore
-> restore // 추가됨
++> restore
 $ Error 200
 > q
 ```
