@@ -69,7 +69,9 @@ $ ggg
 $ hhh
 > restore
 > restore
+
 + > restore
+
 $ Error 200
 > q
 ```
