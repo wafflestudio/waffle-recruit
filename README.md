@@ -61,15 +61,15 @@
 * 08.05.(금) 17:19 assignment problem 3 예시 오류 수정
     * restore 명령어가 추가되었습니다.
 ```diff
-$ aaa
-$ bbb
-$ ccc
-$ fff
-$ ggg
-$ hhh
-> restore
--> restore
-+> restore
-$ Error 200
-> q
+  $ aaa
+  $ bbb
+  $ ccc
+  $ fff
+  $ ggg
+  $ hhh
+  > restore
+  > restore
++ > restore
+  $ Error 200
+  > q
 ```
