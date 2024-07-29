@@ -22,7 +22,7 @@
 - Django, React, Spring boot 중 하나 이상의 Framework 개발 경험이 있으면 더욱 좋습니다.
 - 소개원실 수강생들을 환영합니다.
 
-### Designers: 와플스튜디오의 새로운 프로젝트에 참여하여 UI/UX Design을 진행해 주실 분들
+### Designers: 와플스튜디오의 프로젝트에 참여하여 UI/UX Design을 진행해 주실 분들
 
 - 프로젝트 아이디어를 제시하고 계획할 수 있으며, 진행할 프로젝트 앱/웹의 UI/UX를 디자인합니다.
 - Figma 등의 툴을 사용해본 경험이 있거나, UI/UX Design에 열정과 관심이 있는 분들을 찾습니다.
