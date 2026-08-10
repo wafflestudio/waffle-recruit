@@ -143,3 +143,10 @@
     - 3주차: 동작(컴포넌트, 베리언트)
     - 4주차: 일관된 이미지 구축(디자인 시스템)
 - 선이수 지식: 없음
+
+<hr/>
+
+## 문의사항
+
+- mailto:recruit@wafflestudio.com
+- 인스타그램 @wafflestudio_official
