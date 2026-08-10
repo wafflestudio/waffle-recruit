@@ -61,6 +61,15 @@
 
 ## Rookies 세미나 소개
 
+📚 개설 예정 세미나
+- Frontend | React
+- Backend | FastAPI, Spring
+- Mobile | iOS, Android
+- Product Engineering (PE)
+- Design
+
+새롭게 신설된 ⭐️ Product Engineering(PE) ⭐️ 세미나에서는 AI를 적극 활용해 아이디어를 실제 서비스로 구현합니다. 앱 서비스 기획부터 프론트엔드·백엔드 개발, 출시까지 전 과정을 직접 경험하며 하나의 서비스를 end-to-end로 완성하는 것을 목표로 합니다. **(PE 세미나는 정회원과 Rookie가 함께 수강하며, Rookie는 PE 세미나만 단독으로 수강할 수 없습니다.)**
+
 ### React - Frontend
 
 - 예상 시간대: 월요일 19:00~21:00
